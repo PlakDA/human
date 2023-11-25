@@ -1,1 +1,14 @@
 различаются файлом README, а файл human.txt остается одинаковым
+
+11 commits:
+add
+Merge remote-tracking branch 'origin/boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
